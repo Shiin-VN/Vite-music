@@ -1,0 +1,5 @@
+{
+  "name": "VibeStream - Modern Local Music Player",
+  "description": "A high-performance React music player that automatically indexes local MP3 files using Vite's static asset bundling and Zustand state persistence.",
+  "requestFramePermissions": []
+}
